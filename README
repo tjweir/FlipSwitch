@@ -2,7 +2,7 @@ Install Java, Simple Build Tool, and Git
 
 Clone this repository with:
 
-git clone git://github.com/dpp/lift_sbt_prototype.git
+git clone git://github.com/tjweir/FlipSwitch.git
 
 Then cd into lift_sbt_prototype and type:
 sbt
@@ -16,4 +16,6 @@ jetty-run
 Point your browser to:
 http://localhost:8080/
 
-Voila a running Lift app
+Voila, a running Lift app
+
+@dpp is a rockstar.
