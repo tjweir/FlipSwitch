@@ -4,16 +4,18 @@ Clone this repository with:
 
 git clone git://github.com/tjweir/FlipSwitch.git
 
-Then cd into lift_sbt_prototype and type:
-sbt
+Then cd into FlipSwitch and type:
 
-At the sbt prompt, type:
-update
+"sbt"
 
-Then:
-jetty-run
 
-Point your browser to:
+At the new sbt prompt, type:
+"update"
+<wait for stuff to happen>
+then:
+"jetty-run"
+
+When the server is up and running, point your browser to:
 http://localhost:8080/
 
 Voila, a running Lift app
